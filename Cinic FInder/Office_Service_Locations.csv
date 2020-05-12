@@ -1,0 +1,74 @@
+ServiceID,Service,OfficeServiceID,OfficeID,,Office,Suburb,Phone,Email,Lat,Lon
+1,eVoting Booth,1,1,0,Elton Mckenzie,Hurstville,+61 2 3556 3485,hurstville@myoffice.gov.au,-33.975869,151.088939
+2,Justice of the Peace,2,1,0,Elton Mckenzie,Hurstville,+61 2 3556 3485,hurstville@myoffice.gov.au,-33.975869,151.088939
+1,eVoting Booth,23,10,9,Russel Silva,Melbourne,+61 3 5674 1965,melbourne@myoffice.gov.au,-37.814563,144.970267
+2,Justice of the Peace,24,10,9,Russel Silva,Melbourne,+61 3 5674 1965,melbourne@myoffice.gov.au,-37.814563,144.970267
+3,Library,25,10,9,Russel Silva,Melbourne,+61 3 5674 1965,melbourne@myoffice.gov.au,-37.814563,144.970267
+4,Customer Service,26,10,9,Russel Silva,Melbourne,+61 3 5674 1965,melbourne@myoffice.gov.au,-37.814563,144.970267
+5,Migrant Service,27,10,9,Russel Silva,Melbourne,+61 3 5674 1965,melbourne@myoffice.gov.au,-37.814563,144.970267
+2,Justice of the Peace,28,11,10,Bettie Stevenson,Preston,+61 3 4562 7777,preston@myoffice.gov.au,-37.738736,145.000515
+3,Library,29,12,11,Ofelia Allen,Petticoat Creek,+61 3 7436 4446,petticoatcreek@myoffice.gov.au,-38.718949,143.725959
+1,eVoting Booth,30,13,12,Kirby Graham,Douglas,+61 3 7308 2341,douglas@myoffice.gov.au,-37.842988,144.892631
+4,Customer Service,31,13,12,Kirby Graham,Douglas,+61 3 7308 2341,douglas@myoffice.gov.au,-37.842988,144.892631
+1,eVoting Booth,32,14,13,Emmitt Reid,Mildura,+61 3 5643 9999,mildura@myoffice.gov.au,-34.181714,142.163072
+5,Migrant Service,33,14,13,Emmitt Reid,Mildura,+61 3 5643 9999,mildura@myoffice.gov.au,-34.181714,142.163072
+1,eVoting Booth,34,15,14,Jamel Villa,Broadford,+61 3 3567 2067,broadford@myoffice.gov.au,-37.203001,145.050171
+1,eVoting Booth,35,16,15,Adolfo Massey,Officer,+61 3 3697 2945,officer@myoffice.gov.au,-38.063056,145.40958
+2,Justice of the Peace,36,16,15,Adolfo Massey,Officer,+61 3 3697 2945,officer@myoffice.gov.au,-38.063056,145.40958
+1,eVoting Booth,37,17,16,Shawn Valdez,Nowa Nowa,+61 3 3456 7956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+2,Justice of the Peace,38,17,16,Shawn Valdez,Nowa Nowa,+61 3 3456 7956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+3,Library,39,17,16,Shawn Valdez,Nowa Nowa,+61 3 3456 7956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+4,Customer Service,40,17,16,Shawn Valdez,Nowa Nowa,+61 3 3456 7956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+5,Migrant Service,41,17,16,Shawn Valdez,Nowa Nowa,+61 3 3456 7956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+3,Library,42,18,17,Raymond Moses,Langsborough,+61 3 7076 8883,langsborough@myoffice.gov.au,-38.651487,146.675098
+1,eVoting Booth,43,19,18,Nicholas Evans,Brisbane,+61 7 3672 8709,brisbane@myoffice.gov.au,-27.46758,153.027892
+2,Justice of the Peace,44,19,18,Nicholas Evans,Brisbane,+61 7 3672 8709,brisbane@myoffice.gov.au,-27.46758,153.027892
+3,Library,45,19,18,Nicholas Evans,Brisbane,+61 7 3672 8709,brisbane@myoffice.gov.au,-27.46758,153.027892
+4,Customer Service,46,19,18,Nicholas Evans,Brisbane,+61 7 3672 8709,brisbane@myoffice.gov.au,-27.46758,153.027892
+5,Migrant Service,47,19,18,Nicholas Evans,Brisbane,+61 7 3672 8709,brisbane@myoffice.gov.au,-27.46758,153.027892
+1,eVoting Booth,3,2,1,Kennith Graves,Sydney,+61 2 3453 3466,sydney@myoffice.gov.au,-33.867139,151.207114
+2,Justice of the Peace,4,2,1,Kennith Graves,Sydney,+61 2 3453 3466,sydney@myoffice.gov.au,-33.867139,151.207114
+3,Library,5,2,1,Kennith Graves,Sydney,+61 2 3453 3466,sydney@myoffice.gov.au,-33.867139,151.207114
+4,Customer Service,6,2,1,Kennith Graves,Sydney,+61 2 3453 3466,sydney@myoffice.gov.au,-33.867139,151.207114
+5,Migrant Service,7,2,1,Kennith Graves,Sydney,+61 2 3453 3466,sydney@myoffice.gov.au,-33.867139,151.207114
+4,Customer Service,48,20,19,Janine Kelly,Robertson,+61 7 3375 3892,robertson@myoffice.gov.au,-27.565733,153.057213
+1,eVoting Booth,49,21,20,Jeanne Summers,Logan Village,+61 7 3458 8880,loganvillage@myoffice.gov.au,-27.767054,153.116881
+5,Migrant Service,50,21,20,Jeanne Summers,Logan Village,+61 7 3458 8880,loganvillage@myoffice.gov.au,-27.767054,153.116881
+1,eVoting Booth,51,22,21,Shayne Mendez,Ipswich,+61 7 3456 7890,ipswich@myoffice.gov.au,-27.614604,152.760876
+4,Customer Service,52,22,21,Shayne Mendez,Ipswich,+61 7 3456 7890,ipswich@myoffice.gov.au,-27.614604,152.760876
+5,Migrant Service,53,22,21,Shayne Mendez,Ipswich,+61 7 3456 7890,ipswich@myoffice.gov.au,-27.614604,152.760876
+1,eVoting Booth,54,23,22,Vaughn Griffith,Cattle Creek,+61 7 4456 6871,cattlecreek@myoffice.gov.au,-27.6483,150.836678
+4,Customer Service,55,23,22,Vaughn Griffith,Cattle Creek,+61 7 4456 6871,cattlecreek@myoffice.gov.au,-27.6483,150.836678
+2,Justice of the Peace,56,24,23,Terrence Webster,Caboolture,+61 7 3567 9012,caboolture@myoffice.gov.au,-27.085007,152.951707
+5,Migrant Service,57,25,24,Marylou Mathews,Booie,+61 7 3378 9000,booie@myoffice.gov.au,-26.498426,151.935421
+1,eVoting Booth,58,26,25,Romeo Sweeney,Rockhampton,+61 7 5647 2855,rockhampton@myoffice.gov.au,-23.378941,150.512323
+2,Justice of the Peace,59,26,25,Romeo Sweeney,Rockhampton,+61 7 5647 2855,rockhampton@myoffice.gov.au,-23.378941,150.512323
+3,Library,60,26,25,Romeo Sweeney,Rockhampton,+61 7 5647 2855,rockhampton@myoffice.gov.au,-23.378941,150.512323
+1,eVoting Booth,61,27,26,Fred Walker,Townsville,+61 7 4563 7778,townsville @myoffice.gov.au,-19.267358,146.80654
+2,Justice of the Peace,62,27,26,Fred Walker,Townsville,+61 7 4563 7778,townsville @myoffice.gov.au,-19.267358,146.80654
+3,Library,63,27,26,Fred Walker,Townsville,+61 7 4563 7778,townsville @myoffice.gov.au,-19.267358,146.80654
+4,Customer Service,64,27,26,Fred Walker,Townsville,+61 7 4563 7778,townsville @myoffice.gov.au,-19.267358,146.80654
+5,Migrant Service,65,27,26,Fred Walker,Townsville,+61 7 4563 7778,townsville @myoffice.gov.au,-19.267358,146.80654
+1,eVoting Booth,66,28,27,Elroy Raymond,Cairns,+61 7 3367 1119,cairns@myoffice.gov.au,-16.925397,145.775178
+3,Library,67,28,27,Elroy Raymond,Cairns,+61 7 3367 1119,cairns@myoffice.gov.au,-16.925397,145.775178
+5,Migrant Service,68,28,27,Elroy Raymond,Cairns,+61 7 3367 1119,cairns@myoffice.gov.au,-16.925397,145.775178
+1,eVoting Booth,69,29,28,Noe Reynolds,Adelaide,+61 9 6523 2244,adelaide@myoffice.gov.au,-34.92577,138.599732
+2,Justice of the Peace,70,29,28,Noe Reynolds,Adelaide,+61 9 6523 2244,adelaide@myoffice.gov.au,-34.92577,138.599732
+3,Library,71,29,28,Noe Reynolds,Adelaide,+61 9 6523 2244,adelaide@myoffice.gov.au,-34.92577,138.599732
+4,Customer Service,72,29,28,Noe Reynolds,Adelaide,+61 9 6523 2244,adelaide@myoffice.gov.au,-34.92577,138.599732
+5,Migrant Service,73,29,28,Noe Reynolds,Adelaide,+61 9 6523 2244,adelaide@myoffice.gov.au,-34.92577,138.599732
+1,eVoting Booth,8,3,2,Myrna Duke,Auburn,+61 2 3637 2375,auburn@myoffice.gov.au,-33.849322,151.033421
+2,Justice of the Peace,9,3,2,Myrna Duke,Auburn,+61 2 3637 2375,auburn@myoffice.gov.au,-33.849322,151.033421
+1,eVoting Booth,10,4,3,Parker Lang,Riverwood,+61 2 4574 7345,riverwood@myoffice.gov.au,-33.949859,151.052469
+4,Customer Service,11,4,3,Parker Lang,Riverwood,+61 2 4574 7345,riverwood@myoffice.gov.au,-33.949859,151.052469
+5,Migrant Service,12,4,3,Parker Lang,Riverwood,+61 2 4574 7345,riverwood@myoffice.gov.au,-33.949859,151.052469
+2,Justice of the Peace,13,5,4,Sara Mcconnell,Fingal Bay,+61 2 3753 2374,fingalbay@myoffice.gov.au,-32.748113,152.170141
+3,Library,14,6,5,Anton Orozco,Harrington,+61 2 3673 3495,harrington@myoffice.gov.au,-31.872153,152.689811
+1,eVoting Booth,15,7,6,Lillian Leach,Back Forest,+61 2 3495 3946,backforest@myoffice.gov.au,-34.853655,150.678507
+2,Justice of the Peace,16,7,6,Lillian Leach,Back Forest,+61 2 3495 3946,backforest@myoffice.gov.au,-34.853655,150.678507
+5,Migrant Service,17,7,6,Lillian Leach,Back Forest,+61 2 3495 3946,backforest@myoffice.gov.au,-34.853655,150.678507
+1,eVoting Booth,18,8,7,Kari Avery,Jindabyne,+61 2 8245 2731,jindabyne @myoffice.gov.au,-36.415074,148.618871
+2,Justice of the Peace,19,8,7,Kari Avery,Jindabyne,+61 2 8245 2731,jindabyne @myoffice.gov.au,-36.415074,148.618871
+3,Library,20,8,7,Kari Avery,Jindabyne,+61 2 8245 2731,jindabyne @myoffice.gov.au,-36.415074,148.618871
+1,eVoting Booth,21,9,8,Kate Mcpherson,Benolong,+61 2 7046 2777,benolong@myoffice.gov.au,-32.413736,148.63938
+4,Customer Service,22,9,8,Kate Mcpherson,Benolong,+61 2 7046 2777,benolong@myoffice.gov.au,-32.413736,148.63938
