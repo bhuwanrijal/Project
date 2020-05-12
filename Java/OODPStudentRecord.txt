@@ -1,0 +1,8 @@
+
+
+The Student Record 
+
+
+ID 	Class Test   Assignment-3   Assignment-4   Final Exam   Total Marks   Grade 
+1           9.00          10.00          17.50           2.00     38.50         F
+2          10.00           8.50          15.00           2.00     35.50         F
